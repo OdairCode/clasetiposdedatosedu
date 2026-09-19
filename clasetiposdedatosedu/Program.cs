@@ -69,7 +69,7 @@ namespace clasetiposdedatosedu
                 Console.WriteLine($"El número {num1} es igual a {num2}");
             }
 
-            // Operaciones aritméticas (según la imagen)
+            // Operaciones aritméticas
             float resultado = (num1.Value + num2);
             Console.WriteLine("La suma es: {0}", resultado);
 
